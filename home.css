@@ -1,0 +1,526 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    padding: 50px;
+    border: 2px solid gray;
+}
+
+
+.thehindu{
+    display: flex;
+}
+.thehindu h1{
+   font-size: 5rem;
+}
+.left{
+    padding-left: 30%;
+}
+.right{
+    padding-right: 30%;
+}
+
+.thehindu img{
+    width: 20%;
+    padding-top: -0%;
+}
+.line{
+    display: flex;
+    gap: 3rem;
+    padding-top: 1.5%;
+    padding-left: 15rem;
+}
+
+.hr{
+    border: 5px solid black;
+    width: 15%;
+}
+
+ .hr1{
+    border: 5px solid black;
+    width: 15%;
+}
+.hr2{
+    border: 5px solid black;
+    width: 13%;
+}
+ .hr3{
+    border: 5px solid black;
+    width: 13%;
+}
+.hr4{
+    border: 5px solid black;
+    width: 15%;
+}
+
+
+.sect{
+    display: flex;
+    /* justify-content: space-between;    */
+}
+.india{
+    margin-left: 15rem;
+}
+
+.world{
+    margin-left: 15rem;
+}
+
+.opinioun{
+    margin-left: 14rem
+}
+.election{
+    margin-left: 9rem;
+}
+.e-paper{
+    margin-left: 9rem;
+}
+.more{
+    font-size: 3rem;
+    margin-left: 12rem;
+    /* margin-top: -1rem; */
+}
+
+.ABC{
+    display: flex;
+    padding-left: 9%;
+    gap: 2rem;
+    font-size: 1.2rem;
+    padding-top: 20px;
+}
+.ABC .A{
+    color:rgb(148, 5, 5);
+    padding-top: 2%;
+}
+.search{
+    color: gray;
+    padding-top: 2%;
+}
+
+.XYZ img{
+    width: 12rem;
+}
+.XYZ{
+    padding-left: 25rem;
+}
+.subscribe{
+    width: 200px;
+    height: 50px;
+    background-color: rgb(247, 1, 42);
+    border: 1px solid rgb(247, 7, 47);
+    color: white;
+    border-radius: 0.2rem;
+    text-align: center;
+    line-height: 50px;
+}
+
+
+
+.login{
+    width: 200px;
+    height: 50px;
+    background-color: aliceblue;
+    border: 1px solid rgb(247, 7, 47);
+    color: rgb(252, 5, 46);
+    border-radius: 0.2rem;
+    text-align: center;
+    line-height: 50px;
+}
+
+.lineelection img{
+    width: 100%;
+}
+
+.modisarkar{
+   text-align: center;
+   padding-top: 2rem;
+}
+.modisarkar img{
+    width: 70%;
+}
+
+.content{
+    display: flex;
+}
+
+.cont1{
+    padding-left: 9rem;
+}
+.Premium{
+    font-size: 2rem;
+    color: rgb(158, 6, 31);
+}
+.bjp{
+    font-size: 1.6rem;
+    padding-top: 1rem;
+}
+.kolappan{
+    font-style: italic;
+    padding-top: 1rem;
+}
+hr{
+ margin-top: 20px;
+  width: 17%;
+}
+
+.lok{
+    color: rgb(146, 5, 29);
+    padding-top: 0.9rem;
+}
+
+.cont2{
+    padding-left: 5rem;
+}
+.heading{
+    font-size: 2rem;
+}
+.small{
+    padding-top: 1rem;
+    font-size: 1.9rem;
+}
+.suhas{
+    padding-top: 1rem;
+    font-style: italic;
+}
+.economicimg{
+    padding-top: 1rem;
+}
+.economicimg img{
+    width: 100%;
+}
+.latest h1{
+    color: rgb(199, 30, 59);
+}
+.news1 p{
+    font-size: 1.2rem;
+}
+.news1 div{
+    font-size: 1.5rem;
+}
+
+.latest{
+    padding-left: 3%;
+}
+hr{
+    width: 22rem;
+}
+
+div hr{
+    width: 100%;
+}
+.centered {
+    display: flex;
+    justify-content: center;
+}
+.h{
+    width: 20%;
+    padding-right:90% ;
+}
+
+.abc{
+    display: flex;
+}
+
+.iran{
+    font-size: xx-large;
+    /* text-align: center; */
+    padding-left: 23%;
+}
+
+ .blast{
+    font-size: xx-large;
+    text-align: center;
+    padding-left: 3%;
+} 
+
+.update{
+    font-size: xx-large;
+    text-align: center;
+    padding-left:10%;
+}
+
+.cvb{
+    display: flex;
+    padding-left: 23%;
+    padding-top: 5%;
+}
+
+.d {
+    margin: 0;
+    padding: 0;
+    padding-top: 1.5rem;
+}
+
+.d hr {
+    margin: 0;
+    padding: 0;
+}
+.editorial{
+    display: flex;
+    padding-left: 10%;
+}
+.editorial img{
+    padding-top: 2%;
+    width: 12%;
+}
+
+.risky{
+    padding-top: 2%;
+    font-size: large;
+    padding-left: 5%;
+}
+
+.julian p{
+    font-size: 1.5rem;
+    padding-top: 2%;
+}
+
+.julian{
+    padding-top: 2%;
+    font-size: large;
+    padding-left: 5%;
+}
+.p{
+   width: 100%;
+}
+
+.risky p{
+    font-size: 1.5rem;
+    padding-top: 2%;
+}
+
+.american{
+    text-align: center;
+}
+
+fieldset{
+    background-color:bisque;
+    border: 1px solid black
+}
+legend{
+    color: rgb(201, 17, 47);
+    text-align: center;
+}
+
+fieldset img{
+    padding-left: 17%;
+    padding-top: 2%;
+}
+
+.search-box{
+    padding-left: 20%;
+    padding-top: 2%;
+}
+
+input[type="text"] {
+    width: 70%;
+    padding: 10px;
+    border: 1px solid #423f3f;
+    border-radius: 20px;
+    font-size: 20px;
+    box-sizing: border-box;
+}
+.pl{
+    display: flex;
+    padding-left: 35%;
+    padding-top: 2rem;
+}
+.elechindu{
+    color: rgb(224, 35, 67);
+    font-size: 1.5em;
+    padding-top: 1rem;
+}
+.follow{
+    font-size: 1.5rem;
+    margin-left: 2rem;
+    padding-top: 1rem;
+}
+
+.part{
+    display: flex;
+    padding-top: 5%;
+}
+
+.ert img{
+    padding-left: 2%;
+}
+
+
+.elect h3{
+    color: rgb(236, 56, 86);
+    padding-top: 1rem;
+    font-size: 1.5rem;
+    padding-left: 4%;
+}
+
+.ert div{
+    padding-left: 19%;
+    padding-top: 1rem;
+    font-size: xx-large;
+}
+
+ .ert p{
+    padding-top: 1rem;
+    padding-left: 19%;
+}
+
+.G img{
+    margin-left: -50%;
+}
+
+.csds h3{
+   padding-top: 2rem;
+   color:rgb(199, 30, 59);
+   padding-left: 4%;
+   font-size: smaller;
+} 
+
+ .csds div{
+    font-size: xx-large;
+    padding-left: 17%;
+    padding-top: 1rem;
+}
+
+.csds p{
+    padding-left: 17%;
+    padding-top: 1rem;
+    font-style: italic;
+    font-size: 1.2rem;
+}
+
+.survay h3{
+    padding-left: 17%;
+    color: rgb(172, 5, 33);
+    padding-top: 1rem;
+}
+
+.survay h2{
+    padding-left: 17%;
+    padding-top: 1rem;
+    font-size: 1.8rem;
+}
+
+.survay div{
+    padding-left: 17%;
+    padding-top: 1rem;
+    font-size: 1.7rem;
+}
+.survay p{
+    padding-left: 17%;
+    padding-top: 0.9rem;
+    font-style: italic;
+    font-size:medium;
+}
+
+.apply h3{
+   padding-left: 1%;
+}
+
+.apply h2{
+    padding-left: 1%;
+}
+
+.apply p{
+    padding-left: 1%;
+}
+
+.knowmore{
+    padding-left: 15%;
+}
+
+.knowmore p{
+    font-style: italic;
+    padding-top: 1rem;
+}
+.knowmore h2{
+    padding-top: 1rem;
+}
+
+.features{
+    text-align: center;
+    padding-top: 1rem;
+}
+
+.ssad{
+    text-align: center;
+    padding-top: 5rem;
+}
+.ssad img{
+    width: 80%;
+}
+
+footer{
+    background-color: #f4f2f2;
+    padding-left: 10%;
+    padding-top: 2rem;
+}
+.border_2{
+    border: 3px solid black;
+    width: 180px;
+    margin-left: 30px;
+    
+}
+.footer_1 p{
+ padding: 15px;
+ font-size: 20px;
+ margin-left: 17px;
+}
+.footer_1 h2{
+padding: 10px;
+font-weight: bold;
+margin-left: 17px;
+}
+
+.footer_2 p{
+ padding: 15px;
+ font-size: 20px;
+ margin-left: 17px;
+}
+.footer_2 h2{
+padding: 10px;
+font-weight: bold;
+margin-left: 17px;
+}
+
+.footer_3 p{
+ padding: 15px;
+ font-size: 20px;
+ margin-left: 17px;
+}
+.footer_3 h2{
+padding: 10px;
+font-weight: bold;
+margin-left: 17px;
+}
+.footer_4 p{
+ padding: 15px;
+ font-size: 20px;
+ margin-left: 17px;
+}
+.footer_4 h2{
+padding: 10px;
+font-weight: bold;
+margin-left: 17px;
+}
+.footer_5 p{
+padding: 15px;
+ font-size: 20px;
+ margin-left: 17px;
+}
+.footer_5 h2{
+padding: 15px;
+ font-size: 20px;
+ margin-left: 17px;
+}
+.footer_6 p{
+padding: 15px;
+ font-size: 20px;
+ margin-left: 17px;
+}
+.footer_6 h2{
+padding: 15px;
+ font-size: 20px;
+ margin-left: 17px;
+}

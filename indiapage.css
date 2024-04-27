@@ -1,0 +1,416 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    padding: 50px;
+    border: 2px solid gray;
+}
+
+
+.thehindu{
+    display: flex;
+}
+.thehindu h1{
+   font-size: 5rem;
+}
+.left{
+    padding-left: 30%;
+}
+.right{
+    padding-right: 30%;
+}
+
+.thehindu img{
+    width: 20%;
+    padding-top: -0%;
+}
+.line{
+    display: flex;
+    gap: 3rem;
+    padding-top: 1.5%;
+    padding-left: 15rem;
+}
+
+.hr{
+    border: 5px solid black;
+    width: 15%;
+}
+
+ .hr1{
+    border: 5px solid black;
+    width: 15%;
+}
+.hr2{
+    border: 5px solid black;
+    width: 13%;
+}
+ .hr3{
+    border: 5px solid black;
+    width: 13%;
+}
+.hr4{
+    border: 5px solid black;
+    width: 15%;
+}
+
+
+.sect{
+    display: flex;
+    /* justify-content: space-between;    */
+}
+.india{
+    margin-left: 15rem;
+}
+
+.world{
+    margin-left: 15rem;
+}
+
+.opinioun{
+    margin-left: 14rem
+}
+.election{
+    margin-left: 9rem;
+}
+.e-paper{
+    margin-left: 9rem;
+}
+.more{
+    font-size: 3rem;
+    margin-left: 12rem;
+    /* margin-top: -1rem; */
+}
+
+.ABC{
+    display: flex;
+    padding-left: 9%;
+    gap: 2rem;
+    font-size: 1.2rem;
+    padding-top: 20px;
+}
+.ABC .A{
+    color:rgb(148, 5, 5);
+    padding-top: 2%;
+}
+.search{
+    color: gray;
+    padding-top: 2%;
+}
+
+.XYZ img{
+    width: 12rem;
+}
+.XYZ{
+    padding-left: 25rem;
+}
+.subscribe{
+    width: 200px;
+    height: 50px;
+    background-color: rgb(247, 1, 42);
+    border: 1px solid rgb(247, 7, 47);
+    color: white;
+    border-radius: 0.2rem;
+    text-align: center;
+    line-height: 50px;
+}
+
+
+
+.login{
+    width: 200px;
+    height: 50px;
+    background-color: aliceblue;
+    border: 1px solid rgb(247, 7, 47);
+    color: rgb(252, 5, 46);
+    border-radius: 0.2rem;
+    text-align: center;
+    line-height: 50px;
+}
+ 
+ img {
+    display: block;
+    margin: 0 auto;
+}
+
+p {
+    padding-top: 20px;
+    padding-left: 45%;
+    color: rgb(59, 56, 56);
+}
+
+.over {
+    display: flex;
+    flex-direction: row;
+    padding-left: 8rem;
+    align-items: flex-start;
+    padding-top: 20px;
+    font-size: larger;
+}
+
+.over div {
+    margin-right: 2%;
+}
+
+.over a{
+    color: gray;
+    text-decoration: none;
+}
+
+.loksabha a{
+    color: rgb(160, 12, 37);
+}
+
+.heading {
+    padding-left: 6rem;
+}
+
+.heading h1 {
+    font-size: 4.5rem;
+}
+
+.heading span {
+    font-style: italic;
+    font-weight: normal;
+}
+
+.start {
+    padding-left: 8rem;
+    font-size: 2.1rem;
+}
+
+.update {
+    padding-left: 8rem;
+    font-size: large;
+    padding-top: 20px;
+    color: gray;
+    font-weight: bold;
+}
+
+.PTI {
+    padding-left: 8rem;
+    padding-top: 20px;
+    font-size: x-large;
+}
+
+.icon {
+    padding-left: 8rem;
+    padding-top: 20px;
+    font-size: xx-large; 
+    gap: 30px;
+}
+
+.icon i {
+    margin-right: 2rem;
+}
+
+.icons {
+    display: flex;
+}
+
+.icon2 {
+    padding-left: 78rem;
+    padding-top: 20px;
+    font-size: xx-large; 
+    gap: 30px;
+}
+
+.icon2 i {
+    margin-right: 2rem;
+}
+
+.icon2 span {
+    font-size: 1.3rem;
+}
+
+.img {
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.img img {
+    width: 90%;
+}
+
+.below {
+    padding-left: 6%;
+    font-size: 1.4rem;
+    color: rgb(109, 106, 106);
+    width: 60%;
+}
+
+.first {
+    padding-top: 20px;
+    padding-left: 14%;
+    font-size: 1.5rem;
+    width: 59%;
+}
+
+.clr {
+    color: brown;
+}
+
+.ital {
+    font-style: italic;
+}
+
+.second {
+    padding-top: 20px;
+    padding-left: 14%;
+    color: rgb(66, 65, 65);
+    font-size: 1.5rem;
+    width: 59%;
+}
+.imgg{
+    display: flex;
+    justify-content: center;
+}
+.imgg img{
+    width: 50%;
+}
+
+img{
+    padding-top: 3%;
+
+}
+div img{
+    width: 65%;
+}
+
+
+.taboola{
+    width: 9%;
+    padding-left: 80%;
+}
+
+.box1{
+    display: flex;
+}
+
+.name{
+    display: flex;
+    gap: 13%;
+    padding-top: 0.3rem;
+}
+.n1, .n2, .n3{
+    font-size: 1.5rem;
+}
+.name, a{
+    color: black;
+}
+
+.live img{
+  width:5%;
+  height:auto;
+  float: left;
+}
+
+.part {
+    display: inline-block;
+}
+
+.firstpart {
+    display: inline-block;
+    width: 10%;
+    border-right: 2px solid black;
+    padding-right: 5%;
+}
+
+.secondpart {
+    float: right;
+    width: 30%;
+    padding-left: 2%;
+    padding-right: 5%;
+}
+
+.thirdpart {
+    padding-top: -3rem;
+    display: inline-block;
+    padding-left: 8%;
+    font-size: larger;
+} 
+
+legend{
+    text-align: center;
+}
+.cls{
+    color: rgb(148, 5, 5);
+}
+
+.content{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+}
+footer{
+    background-color: #f4f2f2;
+}
+.border_2{
+    border: 3px solid black;
+    width: 180px;
+    margin-left: 30px;
+}
+.footer_1 p{
+ padding: 15px;
+ font-size: 20px;
+ margin-left: 17px;
+}
+.footer_1 h2{
+padding: 10px;
+font-weight: bold;
+margin-left: 17px;
+}
+
+.footer_2 p{
+ padding: 15px;
+ font-size: 20px;
+ margin-left: 17px;
+}
+.footer_2 h2{
+padding: 10px;
+font-weight: bold;
+margin-left: 17px;
+}
+
+.footer_3 p{
+ padding: 15px;
+ font-size: 20px;
+ margin-left: 17px;
+}
+.footer_3 h2{
+padding: 10px;
+font-weight: bold;
+margin-left: 17px;
+}
+.footer_4 p{
+ padding: 15px;
+ font-size: 20px;
+ margin-left: 17px;
+}
+.footer_4 h2{
+padding: 10px;
+font-weight: bold;
+margin-left: 17px;
+}
+.footer_5 p{
+padding: 15px;
+ font-size: 20px;
+ margin-left: 17px;
+}
+.footer_5 h2{
+padding: 15px;
+ font-size: 20px;
+ margin-left: 17px;
+}
+.footer_6 p{
+padding: 15px;
+ font-size: 20px;
+ margin-left: 17px;
+}
+.footer_6 h2{
+padding: 15px;
+ font-size: 20px;
+ margin-left: 17px;
+}
